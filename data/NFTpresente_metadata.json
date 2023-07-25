@@ -1,0 +1,31 @@
+{
+    "name": "Seu primeiro NFT",
+    "Description": "NFTs são representações virtuais de um ativo real. São seguros, públicos e permanentes, (duram muito mais que um pedregulho). Com isso eu quero te dizer que eu te gosto muito gata, desejo tudo de bom pra ti sempre.",
+    "image": "https://ipfs.io/ipfs/QmWDkBizkih2cvxWM99vhY3FTW4a1rPRYfm6LmyHV84dJh",
+    "attributes": [
+      {
+        "trait_type": "nota",
+        "value": "10/10"
+      },
+      {
+        "trait_type": "gata",
+        "value": "pra caralho"
+      },
+      {
+        "trait_type": "gostos",
+        "value": "altamentente aprumados"
+      },
+      {
+        "trait_type": "efeitos colaterais",
+        "value": "me estragou numas coisas muito boas"
+      },
+      {
+        "trait_type": "características",
+        "value": "ótima companhia, extremamente carinhosa e fez uma diferença maravilhosa na minha vida"
+      },
+      {
+        "trait_type": "mensagem",
+        "value": "Feliz aniversário :D"
+      }
+    ]
+  }
